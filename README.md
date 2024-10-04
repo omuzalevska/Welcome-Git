@@ -1,3 +1,3 @@
-# Welcome-Git_OM
+# Welcome-Git
 Oksana Muzalevska
 oksana.muzalevskaja@gmail.com
